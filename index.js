@@ -1,4 +1,4 @@
-const buttonMenu = document.querySelector(".cabecalio__menu");
+const buttonMenu = document.querySelector(".cabecalho__menu");
 const menuLateral = document.querySelector(".menu-lateral");
 
 buttonMenu.addEventListener("click", () => {
